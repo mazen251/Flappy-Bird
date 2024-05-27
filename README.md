@@ -55,7 +55,7 @@ This is not a complete project and only acts as a starting point for people who 
 
 ## Author
 
-- **Mazen** - [mazen251](https://www.linkedin.com/in/mazen-walid-225582208/)
+- **Mazen** - [Mazen Walid](https://www.linkedin.com/in/mazen-walid-225582208/)
 
 ## Acknowledgments
 
