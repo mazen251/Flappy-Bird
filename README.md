@@ -51,7 +51,7 @@ To start the game, build and run the project in Visual Studio.
 
 ## Note
 
-This is not a complete project and only acts as a starting point for people who are interested in starting game development using C#. There are multiple errors that can be found in the code, and anyone interested can continue from here. As i will be uploading a new project that is made with unity game engine and C# in a new Repo.
+This is not a complete project and only acts as a starting point for people who are interested in starting game development using C#. There are multiple errors that can be found in the code, and anyone interested can continue from here. As i will be uploading a new project that is made with unity game engine and C# in a new [Repo](https://github.com/mazen251/Unity-Flappy-Bird.git).
 
 ## Author
 
